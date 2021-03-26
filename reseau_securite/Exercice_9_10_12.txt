@@ -1,0 +1,9 @@
+Exercice 9
+	1/26 = 0.038
+
+Exercice 10
+	Dans l'exo 9, le texte était généré aléatoirement, alors qu'ici le texte a été écrit en anglais.
+	Il y a donc des lettres qui se repetent plus que d'autres, d'ou la difference de fréquence de répétitions.
+
+Exercice 12
+	L= (Ke-Kr)/(K-Kr) = (0.067-0.038)/(K-0.038) => L(K) = 0.29/(K-0.038)
